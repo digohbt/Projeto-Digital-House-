@@ -4,7 +4,6 @@
 ># Índice
 >- [Sobre](#sobre)
 >- [Profissionais envolvidos.](#profissionais)
->- [Documentação](#documentacao)
 >- [Tecnologias Utilizadas](#tecnologias-utilizadas)
 >- [Como Usar](#como-usar)
 >## :bookmark: Sobre
@@ -23,7 +22,10 @@
 > #### Natalia Lira @NataliaLira
 
 > ### Alunos. 
-> #### Diego
+> #### Diego @digohbt
+> #### Bruno Macena @bcsmacena
+> #### Caio Roberto @koroberto
+> #### Krishnamurtir @krisamorim
 >## :rocket: Tecnologias Utilizadas
 > <a id="tecnologias-utilizadas"></a>
 > O projeto foi desenvolvido utilizando as seguintes tecnologias
