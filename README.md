@@ -16,11 +16,10 @@
 > <a id="profissionais"></a>
 > ## :bookmark: Profissionais envolvidos. 
 > ### Escola 
-> ## Digital House Brasil @DigitalHouseBrasil
+> #### Digital House Brasil @DigitalHouseBrasil
 > ### Professores.  
 > #### Vinicius Oliveira @vinnydeveloper
 > #### Natalia Lira @NataliaLira
-
 > ### Alunos. 
 > #### Diego @digohbt
 > #### Bruno Macena @bcsmacena
