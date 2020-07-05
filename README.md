@@ -1,4 +1,4 @@
-# Projeto-Digital-House-
+> # Projeto-Digital-House
 > ## Pé No Chão.
 > ### A Rede Social Para Times De Várzea.
 ># Índice
@@ -16,24 +16,27 @@
 >se juntar à essa comunidade.
 > <a id="profissionais"></a>
 > ## :bookmark: Profissionais envolvidos. 
+> ### Escola 
+> ## Digital House Brasil @DigitalHouseBrasil
 > ### Professores.  
-> #### Diego
+> #### Vinicius Oliveira @vinnydeveloper
+> #### Natalia Lira @NataliaLira
+
 > ### Alunos. 
 > #### Diego
 >## :rocket: Tecnologias Utilizadas
-<a id="tecnologias-utilizadas"></a>
->O projeto foi desenvolvido utilizando as seguintes tecnologias
-
-- [JavaScript]
-- [Node.js]
-- [HTML-5]
-- [CSS-3]
-- [BootStrap-4]
-- [SQL]
-- [MySQL]
-- [XAPP]
-- [Sequelize]
-- [metodologia ágil scrum]
-- [Git]
-- [GitHub]
-- [APIs-CEP]
+> <a id="tecnologias-utilizadas"></a>
+> O projeto foi desenvolvido utilizando as seguintes tecnologias
+- JavaScript
+- Node.js
+- HTML-5
+- CSS-3
+- BootStrap-4
+- SQL
+- MySQL
+- XAPP 
+- Sequelize
+- metodologia ágil scrum]
+- Git
+- GitHub
+- APIs-CEP
